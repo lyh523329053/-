@@ -10,3 +10,5 @@
 <img src="https://github.com/lyh523329053/Clamp-Circuit/raw/master/pic/DualDiodeClamp.png">
 </center>
 
+<div align=center><img src="https://github.com/lyh523329053/Clamp-Circuit/raw/master/pic/DualDiodeClamp.png" style=' width:300px;height:100 px'/>
+
