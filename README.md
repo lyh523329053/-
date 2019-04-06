@@ -9,6 +9,6 @@
 
 MOS管一般内阻都在10M——1000G欧，所以二极管的内阻远小于场效应管的电阻。如果电压过高，高于Vcc+Vd（二极管导通压降），上面的二极管导通，输出电压钳位于Vcc+Vd；如果电压过低，低于0-Vd（二极管导通压降），下面的二极管导通，输出电压钳位于-Vd。
 
-<center> <img src="https://github.com/lyh523329053/Clamp-Circuit/raw/master/pic/DualDiodeClamp.jpg" width="50%">
+<center> <img src="https://github.com/lyh523329053/Clamp-Circuit/raw/master/pic/DualDiodeClamp.png" width="50%">
 
 
